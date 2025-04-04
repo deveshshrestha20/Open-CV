@@ -54,8 +54,14 @@ Each lab focuses on different aspects of image processing:
 
 ## Folder Structure
 ```
-📂 image-processing-labs/
-├── 📜 Lab1.ipynb  # Introduction to Image Processing
+📂 Open-CV/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   ├── image3.jpg
+│   │   ├── image4.jpg
+│   │   ├── image5.jpg
+│   │   └── image6.jpg
+├── 📜 Lab1.ipynb 
 ├── 📜 Lab2.ipynb  
 ├── 📜 Lab3.ipynb  
 ├── 📜 Lab4.ipynb  
