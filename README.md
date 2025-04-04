@@ -28,7 +28,13 @@ Each lab focuses on different aspects of image processing:
 - Pixel Neighborhood Analysis ( connectivity, distance measure )
 
 
-### 📌 **Lab 2: Image Transformations**
+### 📌 **Lab 2: Image Enhancement and Filtering Techniques - Spatial Domain**
+- Contrast Stretching, Thresholding, Digital Negative and Intensity Level Slicing
+- Histogram ( calculate, equalize )
+- Smoothing Spatial Filters
+- Sharpening Filters
+- Image Magnification ( replication and interpolation )
+
 
 ## How to Run the Notebooks
 1. Clone this repository:
