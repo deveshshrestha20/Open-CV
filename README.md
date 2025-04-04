@@ -20,9 +20,13 @@ pip install -r requirements.txt
 Each lab focuses on different aspects of image processing:
 
 ### 📌 **Lab 1: Introduction to Image Processing**
-- Loading and displaying images using OpenCV and Matplotlib
-- Converting images between color spaces (RGB, Grayscale, HSV)
-- Accessing pixel values and modifying images
+- Image Creation and Image Display
+- Accessing Image Properties
+- Color Space Conversion
+- Sampling and Quantization
+- Basic Image Manipulation ( resize, crop, rotate, flip, annotate )
+- Pixel Neighborhood Analysis ( connectivity, distance measure )
+
 
 ### 📌 **Lab 2: Image Transformations**
 - Image resizing, cropping, and aspect ratio preservation
