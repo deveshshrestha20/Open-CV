@@ -39,8 +39,8 @@ Each lab focuses on different aspects of image processing:
 ## How to Run the Notebooks
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/image-processing-labs.git
-   cd image-processing-labs
+   git clone https://github.com/your-username/OPEN-CV.git
+   cd OPEN-CV
    ```
 2. Install dependencies:
    ```bash
