@@ -29,29 +29,6 @@ Each lab focuses on different aspects of image processing:
 
 
 ### 📌 **Lab 2: Image Transformations**
-- Image resizing, cropping, and aspect ratio preservation
-- Image rotation and flipping
-- Image annotation (drawing lines, shapes, and text)
-
-### 📌 **Lab 3: Image Enhancement and Filtering**
-- Applying different filters: Blur, Gaussian, Median, and Bilateral filtering
-- Image thresholding (Binary, Adaptive, Otsu's method)
-- Histogram equalization for contrast enhancement
-
-### 📌 **Lab 4: Edge Detection and Contour Analysis**
-- Applying Sobel, Prewitt, and Canny edge detection
-- Finding and drawing contours
-- Convex hull and bounding boxes
-
-### 📌 **Lab 5: Morphological Operations**
-- Dilation, erosion, opening, and closing operations
-- Morphological gradient and top-hat transformation
-- Removing noise from binary images
-
-### 📌 **Lab 6: Image Segmentation and Object Detection**
-- Thresholding and region-based segmentation
-- Watershed algorithm for separating objects
-- Object detection using contour properties
 
 ## How to Run the Notebooks
 1. Clone this repository:
@@ -73,14 +50,12 @@ Each lab focuses on different aspects of image processing:
 ```
 📂 image-processing-labs/
 ├── 📜 Lab1.ipynb  # Introduction to Image Processing
-├── 📜 Lab2.ipynb  # Image Transformations
-├── 📜 Lab3.ipynb  # Image Enhancement and Filtering
-├── 📜 Lab4.ipynb  # Edge Detection and Contour Analysis
-├── 📜 Lab5.ipynb  # Morphological Operations
-├── 📜 Lab6.ipynb  # Image Segmentation and Object Detection
-├── 📜 requirements.txt  # Required dependencies
-├── 📜 README.md  # Project documentation
-└── 📂 images/  # Sample images for processing
+├── 📜 Lab2.ipynb  
+├── 📜 Lab3.ipynb  
+├── 📜 Lab4.ipynb  
+├── 📜 Lab5.ipynb
+├── 📜 Lab6.ipynb 
+├── 📜 requirements.txt 
 ```
 
 ## Contributions
