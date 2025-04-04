@@ -39,8 +39,8 @@ Each lab focuses on different aspects of image processing:
 ## How to Run the Notebooks
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/OPEN-CV.git
-   cd OPEN-CV
+   git clone https://github.com/your-username/Open-CV.git
+   cd Open-CV
    ```
 2. Install dependencies:
    ```bash
